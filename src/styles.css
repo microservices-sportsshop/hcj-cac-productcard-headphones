@@ -140,7 +140,12 @@ html {
     margin-top: 6rem;
     font-size: 5rem;
     text-transform: uppercase;
-    background: linear-gradient(to right, #e9954f, #e4622a 30%);
+    /* background: linear-gradient(to right, #e9954f, #e4622a 30%); */
+    /* background: linear-gradient(to right, #9b59b6, #e74c3c); */
+    /* background: linear-gradient(to right, #3498db, #2ecc71); */
+    /* background: linear-gradient(to right, #1abc9c, #16a085); */
+    /* background: linear-gradient(to right, #f6dd8d, #a04403); */
+    background: linear-gradient(to right, #f6a627, #8103b7);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
