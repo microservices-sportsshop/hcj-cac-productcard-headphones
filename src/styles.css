@@ -142,6 +142,7 @@ html {
     text-transform: uppercase;
     background: linear-gradient(to right, #e9954f, #e4622a 30%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
 }
